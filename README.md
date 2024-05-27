@@ -32,7 +32,7 @@
 ### 3.Running the Application
 
 - Run the application using the following command:
-```python app.py```
+```chainlit run app.py```
 - The application will start and provide a URL where you can access the chat interface.
 
 ### 4.Using the Application
