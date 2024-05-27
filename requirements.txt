@@ -1,0 +1,6 @@
+chainlit
+codeinterpreterapi
+langchain-community
+sentry-sdk
+pandas
+jupyter-kernel-gateway
